@@ -3,18 +3,18 @@ marp: true
 title: Marp CLI example
 description: Hosting Marp slide deck on the web
 theme: uncover
-transition: fade
+transition: none
 paginate: true
 _paginate: false
 ---
 
 ![bg opacity](./assets/gradient.jpg)
 
-# <!--fit--> Marp CLI example
+# <!--fit--> The Blues Stack Gives Me Anything But
 
-Hosting Marp slide deck on the web
+Jon Harrell
 
-https://github.com/yhatt/marp-cli-example
+Sr. Developer Advocate, Prisma
 
 <style scoped>a { color: #36c; }</style>
 
@@ -22,55 +22,36 @@ https://github.com/yhatt/marp-cli-example
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+## Who Am I?
+
+- Sr Developer Advocate at Prisma
+- Backend Engineer
 
 ---
 
-<!-- _backgroundColor: "#123" -->
-<!-- _color: "#fff" -->
+## Why am I here?
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
-
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+* I need friends
 
 ---
 
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
+## Why am I here?
 
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+* ~~I need friends~~
+* [Community!](https://www.youtube.com/watch?v=r5Vui99KPeE)
 
 ---
 
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
+## Advocacy
 
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+<!-- Remix is awesome. Prisma is awesome. In my opinion the communities are better when they help each other. I am line of communication from Prisma, but also to Prisma. -->
 
 ---
 
-![bg right 60%](https://icongr.am/simple/zeit.svg)
+## Call me Beep me
 
-## **[Vercel](https://vercel.com/)**
+#### (also any questions?)
 
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
-
----
-
-### <!--fit--> :ok_hand:
-
----
-
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
-
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
-
-https://github.com/yhatt/marp-cli-example
+<br>
+<br>
+@jharrell | @jonbharrell | harrell@prisma.io
